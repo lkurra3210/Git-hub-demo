@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Git Hub Table)">bdac70632fe530101e71d8492799b689</button>
+        <item_parameter display_value="Git Hub Table u_short_description">35ac70632fe530101e71d8492799b689</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 14:29:50</sys_created_on>
+        <sys_id>f5ac70632fe530101e71d8492799b68b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>35ac70632fe530101e71d8492799b689</sys_name>
+        <sys_package display_value="Github Application" source="a61b30eb2fa530101e71d8492799b6b6">a61b30eb2fa530101e71d8492799b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github Application">a61b30eb2fa530101e71d8492799b6b6</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_f5ac70632fe530101e71d8492799b68b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 14:29:50</sys_updated_on>
+        <ui_parameter display_value="Short Description">f9ac70632fe530101e71d8492799b68a</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
