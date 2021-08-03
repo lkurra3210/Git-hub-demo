@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Github Application">a1ac78ef2fa530101e71d8492799b698</applet_launcher>
+        <icon display_value="Home Github Application">61ac78ef2fa530101e71d8492799b699</icon>
+        <label>Github Application</label>
+        <roles>itil</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 14:29:49</sys_created_on>
+        <sys_id>21ac78ef2fa530101e71d8492799b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Github Application</sys_name>
+        <sys_package display_value="Github Application" source="a61b30eb2fa530101e71d8492799b6b6">a61b30eb2fa530101e71d8492799b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github Application">a61b30eb2fa530101e71d8492799b6b6</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_21ac78ef2fa530101e71d8492799b699</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 14:29:49</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

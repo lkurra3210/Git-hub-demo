@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Git Hub Table)</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 14:29:50</sys_created_on>
+        <sys_id>71ac70632fe530101e71d8492799b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Git Hub Table)</sys_name>
+        <sys_package display_value="Github Application" source="a61b30eb2fa530101e71d8492799b6b6">a61b30eb2fa530101e71d8492799b6b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github Application">a61b30eb2fa530101e71d8492799b6b6</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_71ac70632fe530101e71d8492799b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-30 14:29:50</sys_updated_on>
+        <table>u_git_hub_table</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=71ac70632fe530101e71d8492799b67f"/>
+</record_update>
